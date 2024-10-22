@@ -232,7 +232,7 @@ namespace Bloxstrap.Integrations
                 var userDetails = await UserDetails.Fetch(activity.UserId);
 
                 smallImage = userDetails.Thumbnail.ImageUrl;
-                smallImageText = $"Playing on {userDetails.Data.DisplayName} (@{userDetails.Data.Name})"; // i.e. "axell (@Axelan_se)"
+                smallImageText = $"Играет на {userDetails.Data.DisplayName} (@{userDetails.Data.Name})"; // i.e. "axell (@Axelan_se)"
             }
 
             if (!_activityWatcher.InGame || placeId != activity.PlaceId)
@@ -243,9 +243,9 @@ namespace Bloxstrap.Integrations
 
             string status = _activityWatcher.Data.ServerType switch
             {
-                ServerType.Private => "In a private server",
-                ServerType.Reserved => "In a reserved server",
-                _ => $"by {universeDetails.Data.Creator.Name}" + (universeDetails.Data.Creator.HasVerifiedBadge ? " ☑️" : ""),
+                ServerType.Private => "В приватке йоу",
+                ServerType.Reserved => "На зарезервированом",
+                _ => $"создано {universeDetails.Data.Creator.Name}" + (universeDetails.Data.Creator.HasVerifiedBadge ? " ☑️" : ""),
             };
 
             string universeName = universeDetails.Data.Name;
@@ -301,7 +301,7 @@ namespace Bloxstrap.Integrations
                 {
                     buttons.Add(new Button
                     {
-                        Label = "Join server",
+                        Label = "Писоеденитс",
                         Url = data.GetInviteDeeplink()
                     });
                 }
@@ -309,7 +309,7 @@ namespace Bloxstrap.Integrations
 
             buttons.Add(new Button
             {
-                Label = "See game page",
+                Label = "Посмотреть игру",
                 Url = $"https://www.roblox.com/games/{data.PlaceId}"
             });
 

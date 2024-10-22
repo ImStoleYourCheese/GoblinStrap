@@ -264,7 +264,7 @@
 Нажмите для подробной информации</value>
   </data>
   <data name="ContextMenu.ServerInformation.Notification.Title.Public" xml:space="preserve">
-    <value>Подключён к публичному серверу</value>
+    <value>Мобилизирован в общие бараки</value>
   </data>
   <data name="ContextMenu.ServerInformation.Title" xml:space="preserve">
     <value>Информация о сервере</value>
@@ -378,13 +378,13 @@
     <value>Direct3D 11</value>
   </data>
   <data name="Enums.ServerType.Private" xml:space="preserve">
-    <value>Приватный сервер</value>
+    <value>Блатная хата</value>
   </data>
   <data name="Enums.ServerType.Public" xml:space="preserve">
-    <value>Публичный сервер</value>
+    <value>Общие бараки</value>
   </data>
   <data name="Enums.ServerType.Reserved" xml:space="preserve">
-    <value>Зарезервированный сервер</value>
+    <value>Чужая хата</value>
   </data>
   <data name="Enums.Theme.Dark" xml:space="preserve">
     <value>Тёмная</value>
@@ -424,7 +424,7 @@
     <value>Репозиторий GitHub</value>
   </data>
   <data name="Menu.About.HelpInformation" xml:space="preserve">
-    <value>Помощь и справка</value>
+    <value>Помощь отсталым</value>
   </data>
   <data name="Menu.About.Licenses" xml:space="preserve">
     <value>Лицензии</value>
@@ -436,7 +436,7 @@
     <value>Лицензия MIT</value>
   </data>
   <data name="Menu.About.ReportIssue" xml:space="preserve">
-    <value>Сообщить об ошибке</value>
+    <value>Где-то проебались?</value>
   </data>
   <data name="Menu.About.Title" xml:space="preserve">
     <value>О Bloxstrap</value>
@@ -589,7 +589,7 @@
     <value>Редактор Fast Flag-ов</value>
   </data>
   <data name="Menu.FastFlagEditor.Warning.Back" xml:space="preserve">
-    <value>Назад</value>
+    <value>Сьебаться</value>
   </data>
   <data name="Menu.FastFlagEditor.Warning.Continue" xml:space="preserve">
     <value>Я знаю, что делаю</value>
@@ -1065,10 +1065,10 @@ Bloxstrap был установлен по адресу "{1}".</value>
     <value>Создайте ярлыки для быстрого доступа к определенным функциям. Они будут размещены на рабочем столе.</value>
   </data>
   <data name="ContextMenu.ServerInformation.Notification.Title.Private" xml:space="preserve">
-    <value>Подключён к приватному серверу</value>
+    <value>Чифирим в блатной хате</value>
   </data>
   <data name="ContextMenu.ServerInformation.Notification.Title.Reserved" xml:space="preserve">
-    <value>Подключён к зарезервированному серверу</value>
+    <value>Воруем в чужой хате</value>
   </data>
   <data name="Menu.Mods.Presets.EmojiType.Error" xml:space="preserve">
     <value>Мод на эмодзи не может быть применен в данный момент.</value>
@@ -1096,16 +1096,16 @@ Bloxstrap был установлен по адресу "{1}".</value>
     <value>Версия Bloxstrap, которую вы запустили, старше той, что установлена у вас сейчас. Могут возникнуть проблемы, и измениться настройки. Рекомендуется переустановка. Вы уверены, что хотите продолжить?</value>
   </data>
   <data name="Dialog.PlayerError.FailedLaunch" xml:space="preserve">
-    <value>Не удалось запустить Roblox.</value>
+    <value>Шарманка Roblox не шаманит.</value>
   </data>
   <data name="Dialog.PlayerError.Crash" xml:space="preserve">
-    <value>Roblox крашнулся.</value>
+    <value>Roblox ёбнулся.</value>
   </data>
   <data name="Dialog.PlayerError.HelpInformation" xml:space="preserve">
-    <value>Пожалуйста, прочтите следующую справочную информацию, которая откроется в вашем браузере после закрытия окна.</value>
+    <value>Сейчас мы будем вымогать ваши деньги через сайт, а вы культурно откажитесь.</value>
   </data>
   <data name="Common.NetworkError" xml:space="preserve">
-    <value>Не удалось загрузить данные из-за возникшей сетевой ошибки.</value>
+    <value>https://tenor.com/view/network-cables-ethernet-cables-power-cords-datacomm-cables-gif-26765256.</value>
   </data>
   <data name="Common.Loading" xml:space="preserve">
     <value>Загрузка, пожалуйста подождите...</value>
