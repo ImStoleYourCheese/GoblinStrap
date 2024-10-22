@@ -171,7 +171,7 @@
     <comment>Text for style previews that use an X button. Currently only applies to Byfron</comment>
   </data>
   <data name="Bootstrapper.StylePreview.TextCancel" xml:space="preserve">
-    <value>Просмотр стиля - Нажмите Отменить, чтобы закрыть</value>
+    <value>Просмотр стиля - Нажмите Отменить, чтобы отменить</value>
     <comment>Text for style previews that use text button that says "Cancel"</comment>
   </data>
   <data name="Bootstrapper.SuccessfullyUninstalled" xml:space="preserve">
