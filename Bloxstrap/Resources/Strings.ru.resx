@@ -556,15 +556,15 @@
     <value>Управляйте вашими Fast Flags. Дважды щёлкните столбец для редактирования.</value>
   </data>
   <data name="Menu.FastFlagEditor.ExportJson" xml:space="preserve">
-    <value>Экспортировать JSON</value>
+     <value>Экспортировать JSON</value>
   </data>
   <data name="Menu.FastFlagEditor.InvalidCharacter" xml:space="preserve">
-    <value>Запись для '{0}' недействительна, так как название может содержать только буквы, цифры, и подчёркивания</value>
+    <value>Далбаеб, запись на '{0}' недействительна, так как нужно чтобы в названии были онли буквы, цифры, и подчёркивания.</value>
   </data>
   <data name="Menu.FastFlagEditor.InvalidJSON" xml:space="preserve">
-    <value>JSON, который вы ввели, является недействительным. Пожалуйста, перепроверьте и попробуйте заново.
+    <value>JSON, который ты ввел, не правильный. Не юзай чужие говно пресеты.
 
-Больше информации:
+Научись:
 {0}</value>
     <comment>{0} is an exception message</comment>
   </data>
@@ -575,9 +575,9 @@
     <value>Скопировано в буфер обмена.</value>
   </data>
   <data name="Menu.FastFlagEditor.LargeConfig" xml:space="preserve">
-    <value>Вы импортируете весьма большую конфигурацию. Вы должны импортировать только те конфигурации которые сами понимаете. НЕ вставляйте вслепую конфигурации от других людей. Если вы продолжите, можете столкнуться с непредвиденными изменениями и нестабильностью.
+    <value>Ты ебашишь большой пресет, ты же их хотябы понимаешь?. НЕ ебаш вслепую конфигурации от других людей. Если ты продолжиш,то твоемуроблоксу может настигнуть пизда.
 
-Вы точно хотите продолжить?</value>
+сосал?</value>
   </data>
   <data name="Menu.FastFlagEditor.Search" xml:space="preserve">
     <value>Поиск</value>
@@ -586,21 +586,21 @@
     <value>Показывать предустановленные флаги</value>
   </data>
   <data name="Menu.FastFlagEditor.Title" xml:space="preserve">
-    <value>Редактор Fast Flag-ов</value>
+    <value>Редактор чит кодов на гта</value>
   </data>
   <data name="Menu.FastFlagEditor.Warning.Back" xml:space="preserve">
     <value>Назад</value>
   </data>
   <data name="Menu.FastFlagEditor.Warning.Continue" xml:space="preserve">
-    <value>Я знаю, что делаю</value>
+    <value>Сосал</value>
   </data>
   <data name="Menu.FastFlagEditor.Warning.Header" xml:space="preserve">
-    <value>Ты знаешь, что делаешь?</value>
+    <value>Ты сосал?</value>
   </data>
   <data name="Menu.FastFlagEditor.Warning.Text" xml:space="preserve">
-    <value>Fast Flags чрезвычайно сильны, поскольку предназначены для использования исключительно разработчиками Roblox. Несмотря на то, что они могут быть полезны, их настройка вручную может вызвать серьезные проблемы со стабильностью и функциональностью. НЕ используйте редактор, если вы не знаете, что делаете.
+    <value>Многов букв,в кратце не лезь дебил сука ебанный если нихуя не знаешь.
 
-НЕ используйте редактор для импорта больших списков Fast Flags, созданных другими людьми, которые обещают улучшить производительность или что-то в этом роде. Они подвержены вышеупомянутым проблемам и, вероятно, вызовут у вас проблемы, поскольку вы не будете полностью осознавать, что они меняют. Если вы вот-вот собирались это сделать, ВЕРНИТЕСЬ НАЗАД.</value>
+НЕ используй редактор для импорта больших списков Fast Flags, созданных другими людьми, которые обещают что ты перестанешь сосать в дахуде или в мм2. Они сосали, и ебнули чужой ффлаг лист по порядку не читая буквы.</value>
   </data>
   <data name="Menu.FastFlags.Description" xml:space="preserve">
     <value>Контролируйте настройку конкретных параметров и функций движка Roblox.</value>
@@ -610,7 +610,7 @@
     <comment>Title is Menu.FastFlagEditor.Title</comment>
   </data>
   <data name="Menu.FastFlags.Help.Description" xml:space="preserve">
-    <value>Узнайте больше о Fast Flags, что делают те или иные предустановки и как их использовать.</value>
+    <value>Бля изначально прочти эту ебанину с ффлагами.</value>
     <comment>Title is Common.Help</comment>
   </data>
   <data name="Menu.FastFlags.Presets.D3DExclusiveFullscreenInfo" xml:space="preserve">
