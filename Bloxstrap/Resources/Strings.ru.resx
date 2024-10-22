@@ -264,7 +264,7 @@
 Нажмите для подробной информации</value>
   </data>
   <data name="ContextMenu.ServerInformation.Notification.Title.Public" xml:space="preserve">
-    <value>Подключён к публичному серверу</value>
+    <value>Мобилизирован в общие бараки</value>
   </data>
   <data name="ContextMenu.ServerInformation.Title" xml:space="preserve">
     <value>Информация о сервере</value>
@@ -378,13 +378,13 @@
     <value>Direct3D 11</value>
   </data>
   <data name="Enums.ServerType.Private" xml:space="preserve">
-    <value>Приватный сервер</value>
+    <value>Блатная хата</value>
   </data>
   <data name="Enums.ServerType.Public" xml:space="preserve">
-    <value>Публичный сервер</value>
+    <value>Общие бараки</value>
   </data>
   <data name="Enums.ServerType.Reserved" xml:space="preserve">
-    <value>Зарезервированный сервер</value>
+    <value>Чужая хата</value>
   </data>
   <data name="Enums.Theme.Dark" xml:space="preserve">
     <value>Тёмная</value>
@@ -406,7 +406,7 @@
     <value>Код</value>
   </data>
   <data name="Menu.About.Contributors.Description" xml:space="preserve">
-    <value>Это люди, которые внесли значительный вклад в Bloxstrap, помогая сделать его таким, какой он есть.</value>
+    <value>Это люди, которые внесли значительный вклад в Bloxstrap, помогая сделать его таким, каким он не должен быть блять.</value>
   </data>
   <data name="Menu.About.Contributors.FeatureIdeas" xml:space="preserve">
     <value>Идеи для Функций</value>
@@ -1065,10 +1065,10 @@ Bloxstrap был установлен по адресу "{1}".</value>
     <value>Создайте ярлыки для быстрого доступа к определенным функциям. Они будут размещены на рабочем столе.</value>
   </data>
   <data name="ContextMenu.ServerInformation.Notification.Title.Private" xml:space="preserve">
-    <value>Подключён к приватному серверу</value>
+    <value>Чифирим в блатной хате</value>
   </data>
   <data name="ContextMenu.ServerInformation.Notification.Title.Reserved" xml:space="preserve">
-    <value>Подключён к зарезервированному серверу</value>
+    <value>Воруем в чужой хате</value>
   </data>
   <data name="Menu.Mods.Presets.EmojiType.Error" xml:space="preserve">
     <value>Мод на эмодзи не может быть применен в данный момент.</value>
